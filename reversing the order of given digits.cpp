@@ -10,7 +10,7 @@ int main() {
 
     while (num != 0) {
         N = num % 10;
-        num = num / 10;  // <- This line must update num
+        num = num / 10;  
         cout << N << endl;
     }
 
