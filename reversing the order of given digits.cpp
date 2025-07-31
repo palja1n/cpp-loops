@@ -16,3 +16,14 @@ int main() {
 
     return 0;
 }
+
+/*
+Output:
+Enter num:
+78695
+5
+9
+6
+8
+7
+    */
