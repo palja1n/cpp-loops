@@ -62,3 +62,22 @@ int main() {
     return 0;
 }
 
+/*
+Output:
+Welcome to MOODLE software.
+Enter your PRN (numbers only): 24070123067
+Set your password (numbers only): 123456
+Enter your password to login: 789444
+Incorrect password!
+--- MENU ---
+1. Retry login
+2. Change password (requires old password)
+3. Forgot password
+4. Exit
+Enter your choice: 2
+Enter your current password: 123456
+Enter new password: 765464
+Password changed successfully.
+Enter your password to login: 765464
+Login successful! Welcome to your portal.
+    */
