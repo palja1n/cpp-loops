@@ -14,3 +14,11 @@ int main() {
 
     return 0;
 }
+
+/*
+Output:
+A
+BC
+DEF
+GHIJ
+*/
