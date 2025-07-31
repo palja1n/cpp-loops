@@ -6,3 +6,12 @@ for(int i=0;i <5;i++){
 }     
       return 0;
 }
+
+/*
+Output:
+SIT
+SIT
+SIT
+SIT
+SIT
+*/
